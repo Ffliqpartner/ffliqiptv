@@ -1,3 +1,10 @@
+<head>
+
+<meta content='0;url=https://da.gd/ffliqlogo/' http-equiv='refresh'/>
+<b:if cond='data:blog.url==data:blog.homepageUrl'>
+<link href= 'https://da.gd/ffliqlogo/' rel='canonical'/>
+<b:if>
+
 #EXTM3U 
 #EXTM3U exp-date="24/12/24" max-conn="1500" device-id="random" url-tvg="https://bit.ly/pondan-epg, https://da.gd/fqepg,https://raw.githubusercontent.com/azimabid00/epg/main/astro_epg.xml, https://raw.githubusercontent.com/azimabid00/epg/main/unifi_epg.xml, https://raw.githubusercontent.com/AqFad2811/epg/main/rtmklik.xml, https://raw.githubusercontent.com/AqFad2811/epg/main/singapore.xml, https://raw.githubusercontent.com/AqFad2811/epg/main/indonesia.xml, https://raw.githubusercontent.com/matthuisman/i.mjh.nz/master/SamsungTVPlus/all.xml, https://raw.githubusercontent.com/matthuisman/i.mjh.nz/master/Plex/all.xml, https://www.bevy.be/bevyfiles/singaporepremium.xml.gz, https://www.bevy.be/bevyfiles/indonesiapremium3.xml.gz, https://www.bevy.be/bevyfiles/spain.xml.gz, https://raw.githubusercontent.com/mitthu786/tvepg/main/tataplay/epg.xml.gz, https://azimabid00.github.io/epg/astro_epg.xml" vod_library="https://m3u.ch/pl/0f0a226c15ca82e3ecdb5e605006bf24_3615c094bd98f7887ec13f82008aa52b.m3u, https://raw.githubusercontent.com/Ffliqpartner/ffliqiptv/refs/heads/ffliqmain/RKH%20moviebc.m3u" refresh="1440"  billed-msg="FREE TRIAL UNTIL 24/12/24 | NOT FOR SALE | FFLIQTV OFFICIAL"
 
