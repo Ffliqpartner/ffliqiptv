@@ -1,10 +1,15 @@
-#EXTINF:-1 type="movie" tvg-logo="https://m.media-amazon.com/images/M/MV5BMmVkZDAzY2UtMmFkZS00MTY3LWJkNmUtNjE3Zjg3NGZhMzI2XkEyXkFqcGc@._V1_.jpg" group-title="VOD MALAY",Takluk: Lahad Datu https://myindex2.fixtv.xyz/api/raw/?path=/Conquer.Lahad.Datu.2024.1080p.NF.WEB-DL.DDP5.1.H.264-ABE.mkv
+#EXTINF:-1 type="movie" tvg-logo="https://m.media-amazon.com/images/M/MV5BMmVkZDAzY2UtMmFkZS00MTY3LWJkNmUtNjE3Zjg3NGZhMzI2XkEyXkFqcGc@._V1_.jpg" group-title="VOD MALAY",Takluk: Lahad Datu 
+https://myindex2.fixtv.xyz/api/raw/?path=/Conquer.Lahad.Datu.2024.1080p.NF.WEB-DL.DDP5.1.H.264-ABE.mkv
 
-#EXTINF:-1 type="movie" tvg-logo="https://m.media-amazon.com/images/M/MV5BNDgxYjBjODEtMDQwNC00N2M3LWJiNGUtMzRkNjY4MmE2ODU2XkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg" group-title="VOD MALAY",Baik Punya Ah Long https://myindex2.fixtv.xyz/api/raw/?path=/Baik.Punya.Ah-Long.2024.1080P.Aotg.Web-Dl.Dd5.1.H264-ABE.mp4
+#EXTINF:-1 type="movie" tvg-logo="https://m.media-amazon.com/images/M/MV5BNDgxYjBjODEtMDQwNC00N2M3LWJiNGUtMzRkNjY4MmE2ODU2XkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg" group-title="VOD MALAY",Baik Punya Ah Long 
+https://myindex2.fixtv.xyz/api/raw/?path=/Baik.Punya.Ah-Long.2024.1080P.Aotg.Web-Dl.Dd5.1.H264-ABE.mp4
 
-#EXTINF:-1 type="movie" tvg-logo="https://www2.mmcineplexes.com/poster/786795946.jpg" group-title="VOD MALAY",Jiwa 8 Belas #KODIPROP:inputstream.adaptive.license_type=clearkey #KODIPROP:inputstream.adaptive.license_key=c7ed8bf9d10c7dce1eac14d0b8de9610:623db46477ed9cc93e4e9919d9c4e599 https://vodejitp-asset-playback-b.astro.com.my/v4/default/dash-wv/vode/9b4a322d-7a67-51de-85c5-06b0257f1cd5/default_primary.mpd
+#EXTINF:-1 type="movie" tvg-logo="https://www2.mmcineplexes.com/poster/786795946.jpg" group-title="VOD MALAY",Jiwa 8 Belas 
+#KODIPROP:inputstream.adaptive.license_type=clearkey #KODIPROP:inputstream.adaptive.license_key=c7ed8bf9d10c7dce1eac14d0b8de9610:623db46477ed9cc93e4e9919d9c4e599 
+https://vodejitp-asset-playback-b.astro.com.my/v4/default/dash-wv/vode/9b4a322d-7a67-51de-85c5-06b0257f1cd5/default_primary.mpd
 
-#EXTINF:-1 type="movie" tvg-logo="https://m.media-amazon.com/images/M/MV5BYmY1NmE5NmItMjI0Ny00ZDY4LWE0ZWMtNGE2OGQ0YTVmZWIzXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg" group-title="VOD MALAY",Telekinesis https://may24vod.fixtv.xyz/api/raw/?path=/Telekinesis.2024.SubsMalay.mp4
+#EXTINF:-1 type="movie" tvg-logo="https://m.media-amazon.com/images/M/MV5BYmY1NmE5NmItMjI0Ny00ZDY4LWE0ZWMtNGE2OGQ0YTVmZWIzXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg" group-title="VOD MALAY",Telekinesis 
+https://may24vod.fixtv.xyz/api/raw/?path=/Telekinesis.2024.SubsMalay.mp4
 
 #EXTINF:-1 type="movie" tvg-logo="https://m.media-amazon.com/images/M/MV5BM2VjNDI0ZWMtNmI2Zi00ZGQxLTg3MWItMzU4ZTRjMzBiMmYxXkEyXkFqcGc@._V1_.jpg" group-title="VOD MALAY",Paku Tanah Jawa #KODIPROP:inputstream.adaptive.license_type=clearkey #KODIPROP:inputstream.adaptive.license_key=a2e36e866278297dc4fd6b44c9136810:1c9141ee3d020633af07bd8c2ec03f2a https://vodejitp-asset-playback-b.astro.com.my/v4/default/dash-wv/vode/8e9b15c9-6e5d-531a-8602-3e6088df7cdb/default_primary.mpd
 
