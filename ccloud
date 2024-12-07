@@ -2,7 +2,8 @@
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey 
 #KODIPROP:inputstream.adaptive.license_key=34474fae5259ee9ca5319a1fa2902310:d70e9c25fd1b3720e909c1c2ef239458 
-#EXTINF:-1 type="movie" tvg-logo="http://vod-poster.astro.com.my/prod/IVP(STB_OTT_STV)_IYTWE_p_IVP_PORT_390x585_48EE8_2024106_104048.jpg" group-title="VOD CLOUD", "Dato" S https://vod-dai-ott-ap.ssai.iris.synamedia.com/tenant/astroprd/vodejitp-asset-playback-b.astro.com.my/v4/default/dash-wv/vode/902414e0-35f5-59f4-8e9d-335e40113397/default_primary.mpd
+#EXTINF:-1 type="movie" tvg-logo="http://vod-poster.astro.com.my/prod/IVP(STB_OTT_STV)_IYTWE_p_IVP_PORT_390x585_48EE8_2024106_104048.jpg" group-title="VOD CLOUD", "Dato" S 
+https://vod-dai-ott-ap.ssai.iris.synamedia.com/tenant/astroprd/vodejitp-asset-playback-b.astro.com.my/v4/default/dash-wv/vode/902414e0-35f5-59f4-8e9d-335e40113397/default_primary.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey 
 #KODIPROP:inputstream.adaptive.license_key=acfb269dee5e0289e9ffbb16b9799310:9ce2696d528926c7463891379550c89b 
@@ -71,7 +72,8 @@
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey #KODIPROP:inputstream.adaptive.license_key=42a327ffc96b3f80ae64efffec20e610:8cb5696cf7e132fe6130971761b5b835 #EXTINF:-1 type="movie" tvg-logo="http://vod-poster.astro.com.my/prod/IVP(STB_OTT_STV)_KMXYH_IVP_LAND_171x96_78323_2024524_104613.jpg" group-title="VOD CLOUD", 1987: When The Day Comes https://vod-dai-ott-ap.ssai.iris.synamedia.com/tenant/astroprd/vodejitp-asset-playback-b.astro.com.my/v4/default/dash-wv/vode/de7ee8c3-57a3-5faf-8266-0eb9b53afe66/default_primary.mpd
 
-#KODIPROP:inputstream.adaptive.license_type=clearkey #KODIPROP:inputstream.adaptive.license_key=fff9d4b772cf3e8cdcd8cde523f28510:5d0224f32550da42aec3f0b2d43ef463 #EXTINF:-1 type="movie" tvg-logo="http://vod-poster.astro.com.my/prod/IVP(STB_OTT_STV)_GVEUM_IVP_LAND_288x162_202427_11948.jpg" group-title="VOD CLOUD", 2 Fast 2 Furious https://vod-dai-ott-ap.ssai.iris.synamedia.com/tenant/astroprd/vodejitp-asset-playback-b.astro.com.my/v4/default/dash-wv/vode/0e22520a-a55b-5d0d-b26a-f4cdcd58ba73/default_primary.mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey #KODIPROP:inputstream.adaptive.license_key=fff9d4b772cf3e8cdcd8cde523f28510:5d0224f32550da42aec3f0b2d43ef463 #EXTINF:-1 type="movie" tvg-logo="http://vod-poster.astro.com.my/prod/IVP(STB_OTT_STV)_GVEUM_IVP_LAND_288x162_202427_11948.jpg" group-title="VOD CLOUD", 2 Fast 2 Furious 
+https://vod-dai-ott-ap.ssai.iris.synamedia.com/tenant/astroprd/vodejitp-asset-playback-b.astro.com.my/v4/default/dash-wv/vode/0e22520a-a55b-5d0d-b26a-f4cdcd58ba73/default_primary.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey #KODIPROP:inputstream.adaptive.license_key=92acf288f39ed309bf4926a311443010:52502991db2329c356cc6744c43913bc #EXTINF:-1 type="movie" tvg-logo="http://vod-poster.astro.com.my/prod/IVP(STB_OTT_STV)_IVFNO_IVP_LAND_171x96_36D5E_2024321_17136.jpg" group-title="VOD CLOUD", 2.0 https://vod-dai-ott-ap.ssai.iris.synamedia.com/tenant/astroprd/vodejitp-asset-playback-b.astro.com.my/v4/default/dash-wv/vode/cb01a979-6a12-5461-9aa5-5d7149823b98/default_primary.mpd
 
