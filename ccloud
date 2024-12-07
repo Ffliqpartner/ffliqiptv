@@ -95,11 +95,13 @@ https://vod-dai-ott-ap.ssai.iris.synamedia.com/tenant/astroprd/vodejitp-asset-pl
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey 
 #KODIPROP:inputstream.adaptive.license_key=f44cd9069dde674b675f4f594efb8d10:2a7bddd8e62bafdbedce7bfb5e9c7967 
-#EXTINF:-1 type="movie" tvg-logo="http://vod-poster.astro.com.my/prod/IVP(STB_OTT_STV)_HUTOK_IVP_LAND_288x162_1FFB3_2024313_164629.jpg" group-title="VOD CLOUD", 1957: Hati Malaya https://vod-dai-ott-ap.ssai.iris.synamedia.com/tenant/astroprd/vodejitp-asset-playback-b.astro.com.my/v4/default/dash-wv/vode/aa9ff09d-dbc0-5568-b2b4-00fee92ae5aa/default_primary.mpd
+#EXTINF:-1 type="movie" tvg-logo="http://vod-poster.astro.com.my/prod/IVP(STB_OTT_STV)_HUTOK_IVP_LAND_288x162_1FFB3_2024313_164629.jpg" group-title="VOD CLOUD", 1957: Hati Malaya 
+https://vod-dai-ott-ap.ssai.iris.synamedia.com/tenant/astroprd/vodejitp-asset-playback-b.astro.com.my/v4/default/dash-wv/vode/aa9ff09d-dbc0-5568-b2b4-00fee92ae5aa/default_primary.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey 
 #KODIPROP:inputstream.adaptive.license_key=42a327ffc96b3f80ae64efffec20e610:8cb5696cf7e132fe6130971761b5b835 
-#EXTINF:-1 type="movie" tvg-logo="http://vod-poster.astro.com.my/prod/IVP(STB_OTT_STV)_KMXYH_IVP_LAND_171x96_78323_2024524_104613.jpg" group-title="VOD CLOUD", 1987: When The Day Comes https://vod-dai-ott-ap.ssai.iris.synamedia.com/tenant/astroprd/vodejitp-asset-playback-b.astro.com.my/v4/default/dash-wv/vode/de7ee8c3-57a3-5faf-8266-0eb9b53afe66/default_primary.mpd
+#EXTINF:-1 type="movie" tvg-logo="http://vod-poster.astro.com.my/prod/IVP(STB_OTT_STV)_KMXYH_IVP_LAND_171x96_78323_2024524_104613.jpg" group-title="VOD CLOUD", 1987: When The Day Comes 
+https://vod-dai-ott-ap.ssai.iris.synamedia.com/tenant/astroprd/vodejitp-asset-playback-b.astro.com.my/v4/default/dash-wv/vode/de7ee8c3-57a3-5faf-8266-0eb9b53afe66/default_primary.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey 
 #KODIPROP:inputstream.adaptive.license_key=fff9d4b772cf3e8cdcd8cde523f28510:5d0224f32550da42aec3f0b2d43ef463 
@@ -112,34 +114,54 @@ https://vod-dai-ott-ap.ssai.iris.synamedia.com/tenant/astroprd/vodejitp-asset-pl
 https://vod-dai-ott-ap.ssai.iris.synamedia.com/tenant/astroprd/vodejitp-asset-playback-b.astro.com.my/v4/default/dash-wv/vode/cb01a979-6a12-5461-9aa5-5d7149823b98/default_primary.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey 
-#KODIPROP:inputstream.adaptive.license_key=9eb7b93643dfdb27f7e5efa444980510:751eeb50db7419519468d734fe63f848 #EXTINF:-1 type="movie" tvg-logo="http://vod-poster.astro.com.my/prod/IVP(STB_OTT_STV)_KFYWU_IVP_LAND_171x96_676D6_2024313_18286.jpg" group-title="VOD CLOUD", 200 Pounds Beauty https://vodejitp-asset-playback-b.astro.com.my/v4/default/dash-wv/vode/c650495c-48a4-5ca8-8ef5-9acc27d7bb62/default_primary.mpd
+#KODIPROP:inputstream.adaptive.license_key=9eb7b93643dfdb27f7e5efa444980510:751eeb50db7419519468d734fe63f848 
+#EXTINF:-1 type="movie" tvg-logo="http://vod-poster.astro.com.my/prod/IVP(STB_OTT_STV)_KFYWU_IVP_LAND_171x96_676D6_2024313_18286.jpg" group-title="VOD CLOUD", 200 Pounds Beauty 
+https://vodejitp-asset-playback-b.astro.com.my/v4/default/dash-wv/vode/c650495c-48a4-5ca8-8ef5-9acc27d7bb62/default_primary.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey 
-#KODIPROP:inputstream.adaptive.license_key=1615d0ba23f16ec0566edb989bf0e610:77891c1ef39b445fae5fac1706e41f94 #EXTINF:-1 type="movie" tvg-logo="http://vod-poster.astro.com.my/prod/IVP(STB_OTT_STV)_KIXZO_P_IVP_PORT_274x411_71883_2024524_104512.jpg" group-title="VOD CLOUD", 2012 https://vodejitp-asset-playback-b.astro.com.my/v4/default/dash-wv/vode/cd9c111f-d2cb-5207-9025-59251b8341a1/default_primary.mpd
+#KODIPROP:inputstream.adaptive.license_key=1615d0ba23f16ec0566edb989bf0e610:77891c1ef39b445fae5fac1706e41f94 
+#EXTINF:-1 type="movie" tvg-logo="http://vod-poster.astro.com.my/prod/IVP(STB_OTT_STV)_KIXZO_P_IVP_PORT_274x411_71883_2024524_104512.jpg" group-title="VOD CLOUD", 2012 
+https://vodejitp-asset-playback-b.astro.com.my/v4/default/dash-wv/vode/cd9c111f-d2cb-5207-9025-59251b8341a1/default_primary.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey 
-#KODIPROP:inputstream.adaptive.license_key=87868c4e8518e1248eec8e81f62e1e10:9fc5f7dcfcc4ad5c45776687f5a80eae #EXTINF:-1 type="movie" tvg-logo="http://vod-poster.astro.com.my/prod/IVP(STB_OTT_STV)_KFYWV_IVP_LAND_171x96_676D7_2024313_18286.jpg" group-title="VOD CLOUD", 2022 Rock & Roll Hall Of Fame https://vodejitp-asset-playback-b.astro.com.my/v4/default/dash-wv/vode/b437d6a5-bfdf-5508-a42f-1822e1b919f2/default_primary.mpd
+#KODIPROP:inputstream.adaptive.license_key=87868c4e8518e1248eec8e81f62e1e10:9fc5f7dcfcc4ad5c45776687f5a80eae 
+#EXTINF:-1 type="movie" tvg-logo="http://vod-poster.astro.com.my/prod/IVP(STB_OTT_STV)_KFYWV_IVP_LAND_171x96_676D7_2024313_18286.jpg" group-title="VOD CLOUD", 2022 Rock & Roll Hall Of Fame 
+https://vodejitp-asset-playback-b.astro.com.my/v4/default/dash-wv/vode/b437d6a5-bfdf-5508-a42f-1822e1b919f2/default_primary.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey 
-#KODIPROP:inputstream.adaptive.license_key=d83f26204bc5632c1d4f501d175f4710:d1aad3794962e8482327eb8ec482e29c #EXTINF:-1 type="movie" tvg-logo="http://vod-poster.astro.com.my/prod/IVP(STB_OTT_STV)_KIXZS_P_IVP_PORT_108x162_72ADB_2024524_104512.jpg" group-title="VOD CLOUD", 21 https://vodejitp-asset-playback-b.astro.com.my/v4/default/dash-wv/vode/674c9de5-77c5-5816-820b-59172db08a57/default_primary.mpd
+#KODIPROP:inputstream.adaptive.license_key=d83f26204bc5632c1d4f501d175f4710:d1aad3794962e8482327eb8ec482e29c 
+#EXTINF:-1 type="movie" tvg-logo="http://vod-poster.astro.com.my/prod/IVP(STB_OTT_STV)_KIXZS_P_IVP_PORT_108x162_72ADB_2024524_104512.jpg" group-title="VOD CLOUD", 21 
+https://vodejitp-asset-playback-b.astro.com.my/v4/default/dash-wv/vode/674c9de5-77c5-5816-820b-59172db08a57/default_primary.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey 
-#KODIPROP:inputstream.adaptive.license_key=49beda1c077b4aee08372b807fc5c510:c13b9233f6e696a13fc94e6e36791aa0 #EXTINF:-1 type="movie" tvg-logo="http://vod-poster.astro.com.my/prod/IVP(STB_OTT_STV)_JKCCQ_IVP_LAND_288x162_2024516_164640.jpg" group-title="VOD CLOUD", 24 https://vod-dai-ott-ap.ssai.iris.synamedia.com/tenant/astroprd/vodejitp-asset-playback-b.astro.com.my/v4/default/dash-wv/vode/89dc72fa-6cf9-580c-8a25-7a0b70ffe1e1/default_primary.mpd
+#KODIPROP:inputstream.adaptive.license_key=49beda1c077b4aee08372b807fc5c510:c13b9233f6e696a13fc94e6e36791aa0 
+#EXTINF:-1 type="movie" tvg-logo="http://vod-poster.astro.com.my/prod/IVP(STB_OTT_STV)_JKCCQ_IVP_LAND_288x162_2024516_164640.jpg" group-title="VOD CLOUD", 24 
+https://vod-dai-ott-ap.ssai.iris.synamedia.com/tenant/astroprd/vodejitp-asset-playback-b.astro.com.my/v4/default/dash-wv/vode/89dc72fa-6cf9-580c-8a25-7a0b70ffe1e1/default_primary.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey 
-#KODIPROP:inputstream.adaptive.license_key=5bb25d2d7e580446599b633ec8c14d10:dd163f422cd52bf30bcf99a036facc5d #EXTINF:-1 type="movie" tvg-logo="http://vod-poster.astro.com.my/prod/IVP(STB_OTT)_IREGP_p_IVP_PORT_390x585_2BF37_2024313_165215.jpg" group-title="VOD CLOUD", 24/7 The Match: Tiger vs. Phil https://vodejitp-asset-playback-b.astro.com.my/v4/default/dash-wv/vode/915252cf-2786-5516-9b01-4be58b648642/default_primary.mpd
+#KODIPROP:inputstream.adaptive.license_key=5bb25d2d7e580446599b633ec8c14d10:dd163f422cd52bf30bcf99a036facc5d 
+#EXTINF:-1 type="movie" tvg-logo="http://vod-poster.astro.com.my/prod/IVP(STB_OTT)_IREGP_p_IVP_PORT_390x585_2BF37_2024313_165215.jpg" group-title="VOD CLOUD", 24/7 The Match: Tiger vs. Phil 
+https://vodejitp-asset-playback-b.astro.com.my/v4/default/dash-wv/vode/915252cf-2786-5516-9b01-4be58b648642/default_primary.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey 
-#KODIPROP:inputstream.adaptive.license_key=b037b05ebc4819169212ae5b3f168210:f1ff3c47a51395670918df9abe77c02f #EXTINF:-1 type="movie" tvg-logo="http://vod-poster.astro.com.my/prod/IVP(STB_OTT)_IUWCK_IVP_LAND_288x162_2024423_7657.jpg" group-title="VOD CLOUD", 27 Hari Mencari Mustafa https://vod-dai-ott-ap.ssai.iris.synamedia.com/tenant/astroprd/vodejitp-asset-playback-b.astro.com.my/v4/default/dash-wv/vode/94e953d0-fc64-574e-96e3-83d210c2fd15/default_primary.mpd
+#KODIPROP:inputstream.adaptive.license_key=b037b05ebc4819169212ae5b3f168210:f1ff3c47a51395670918df9abe77c02f 
+#EXTINF:-1 type="movie" tvg-logo="http://vod-poster.astro.com.my/prod/IVP(STB_OTT)_IUWCK_IVP_LAND_288x162_2024423_7657.jpg" group-title="VOD CLOUD", 27 Hari Mencari Mustafa 
+https://vod-dai-ott-ap.ssai.iris.synamedia.com/tenant/astroprd/vodejitp-asset-playback-b.astro.com.my/v4/default/dash-wv/vode/94e953d0-fc64-574e-96e3-83d210c2fd15/default_primary.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey 
-#KODIPROP:inputstream.adaptive.license_key=40fc5e73f5a84cc12a128d6f679e0810:de369fee82024c0b76d084f816e47b12 #EXTINF:-1 type="movie" tvg-logo="http://vod-poster.astro.com.my/prod/IVP(STB_OTT_STV)_HOIKY_IVP_LAND_288x162_43F7E_2024313_171213.jpg" group-title="VOD CLOUD", 2nd Serve https://vod-dai-ott-ap.ssai.iris.synamedia.com/tenant/astroprd/vodejitp-asset-playback-b.astro.com.my/v4/default/dash-wv/vode/46fd9a71-b705-5219-9b5c-9937de64c9ca/default_primary.mpd
+#KODIPROP:inputstream.adaptive.license_key=40fc5e73f5a84cc12a128d6f679e0810:de369fee82024c0b76d084f816e47b12 
+#EXTINF:-1 type="movie" tvg-logo="http://vod-poster.astro.com.my/prod/IVP(STB_OTT_STV)_HOIKY_IVP_LAND_288x162_43F7E_2024313_171213.jpg" group-title="VOD CLOUD", 2nd Serve 
+https://vod-dai-ott-ap.ssai.iris.synamedia.com/tenant/astroprd/vodejitp-asset-playback-b.astro.com.my/v4/default/dash-wv/vode/46fd9a71-b705-5219-9b5c-9937de64c9ca/default_primary.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey 
-#KODIPROP:inputstream.adaptive.license_key=70fe740173ce129cf58cac595a656e10:ccbb6f81472e384566832de75c75de58 #EXTINF:-1 type="movie" tvg-logo="http://vod-poster.astro.com.my/prod/IVP(STB_OTT_STV)_ILLEM_p_IVP_PORT_390x585_27B9A_2024313_165039.jpg" group-title="VOD CLOUD", 3 Bahadol https://vod-dai-ott-ap.ssai.iris.synamedia.com/tenant/astroprd/vodejitp-asset-playback-b.astro.com.my/v4/default/dash-wv/vode/1e224a22-90fd-5c81-bf1c-3a91ab8f54ec/default_primary.mpd
+#KODIPROP:inputstream.adaptive.license_key=70fe740173ce129cf58cac595a656e10:ccbb6f81472e384566832de75c75de58 
+#EXTINF:-1 type="movie" tvg-logo="http://vod-poster.astro.com.my/prod/IVP(STB_OTT_STV)_ILLEM_p_IVP_PORT_390x585_27B9A_2024313_165039.jpg" group-title="VOD CLOUD", 3 Bahadol 
+https://vod-dai-ott-ap.ssai.iris.synamedia.com/tenant/astroprd/vodejitp-asset-playback-b.astro.com.my/v4/default/dash-wv/vode/1e224a22-90fd-5c81-bf1c-3a91ab8f54ec/default_primary.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey 
-#KODIPROP:inputstream.adaptive.license_key=222cb7fce68d629eb47facb5494ea010:370aab3a30d146b60bf98a8ba00783a4 #EXTINF:-1 type="movie" tvg-logo="http://vod-poster.astro.com.my/prod/IVP(STB_OTT_STV)_KOOVM_IVP_LAND_288x162_7C3C1_202494_164637.jpg" group-title="VOD CLOUD", 3 Dara Manik https://vod-dai-ott-ap.ssai.iris.synamedia.com/tenant/astroprd/vodejitp-asset-playback-b.astro.com.my/v4/default/dash-wv/vode/97fba08d-463d-577f-acef-b606aae96f56/default_primary.mpd
+#KODIPROP:inputstream.adaptive.license_key=222cb7fce68d629eb47facb5494ea010:370aab3a30d146b60bf98a8ba00783a4 
+#EXTINF:-1 type="movie" tvg-logo="http://vod-poster.astro.com.my/prod/IVP(STB_OTT_STV)_KOOVM_IVP_LAND_288x162_7C3C1_202494_164637.jpg" group-title="VOD CLOUD", 3 Dara Manik 
+https://vod-dai-ott-ap.ssai.iris.synamedia.com/tenant/astroprd/vodejitp-asset-playback-b.astro.com.my/v4/default/dash-wv/vode/97fba08d-463d-577f-acef-b606aae96f56/default_primary.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey 
 #KODIPROP:inputstream.adaptive.license_key=b8fe449fef5abe5e24538cbab1817110:ebdfa0e5afcf51a2f5d0fb4fe5f2f91b #EXTINF:-1 type="movie" tvg-logo="http://vod-poster.astro.com.my/prod/IVP(STB_OTT_STV)_JNJRT_IVP_LAND_672x378_3BE4D_2024313_17532.jpg" group-title="VOD CLOUD", 3 Dukun Santet https://vod-dai-ott-ap.ssai.iris.synamedia.com/tenant/astroprd/vodejitp-asset-playback-b.astro.com.my/v4/default/dash-wv/vode/ec46235e-12a1-59db-a713-8827218091ea/default_primary.mpd
@@ -415,9 +437,11 @@ https://vod-dai-ott-ap.ssai.iris.synamedia.com/tenant/astroprd/vodejitp-asset-pl
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey #KODIPROP:inputstream.adaptive.license_key=9b12dd141319492202058d75043eb710:cdad3d8a35094520927b98eb0f0f6b48 #EXTINF:-1 type="movie" tvg-logo="http://vod-poster.astro.com.my/prod/IVP(STB_OTT_STV)_JLGMJ_IVP_LAND_432x243_40743_2024313_17942.jpg" group-title="VOD CLOUD", Aku OCD https://vod-dai-ott-ap.ssai.iris.synamedia.com/tenant/astroprd/vodejitp-asset-playback-b.astro.com.my/v4/default/dash-wv/vode/5f7c3527-1961-5360-9fd0-162493459e29/default_primary.mpd
 
-#KODIPROP:inputstream.adaptive.license_type=clearkey #KODIPROP:inputstream.adaptive.license_key=3afb70656797b26e6b4fe880ff9c1310:05d969a4584fed4f5475be9af34a5865 #EXTINF:-1 type="movie" tvg-logo="http://vod-poster.astro.com.my/prod/IVP(STB_OTT_STV)_IOXJG_p_IVP_PORT_260x390_2BE28_2024313_165215.jpg" group-title="VOD CLOUD", Aku Posmen https://vod-dai-ott-ap.ssai.iris.synamedia.com/tenant/astroprd/vodejitp-asset-playback-b.astro.com.my/v4/default/dash-wv/vode/4fa3351a-245d-5714-b74c-ca08c28aa715/default_primary.mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey 
+#KODIPROP:inputstream.adaptive.license_key=3afb70656797b26e6b4fe880ff9c1310:05d969a4584fed4f5475be9af34a5865 #EXTINF:-1 type="movie" tvg-logo="http://vod-poster.astro.com.my/prod/IVP(STB_OTT_STV)_IOXJG_p_IVP_PORT_260x390_2BE28_2024313_165215.jpg" group-title="VOD CLOUD", Aku Posmen https://vod-dai-ott-ap.ssai.iris.synamedia.com/tenant/astroprd/vodejitp-asset-playback-b.astro.com.my/v4/default/dash-wv/vode/4fa3351a-245d-5714-b74c-ca08c28aa715/default_primary.mpd
 
-#KODIPROP:inputstream.adaptive.license_type=clearkey #KODIPROP:inputstream.adaptive.license_key=e494828394edcdb5e6aa74d882f69f10:91fcc6ca4c14878b3f90424956c75fef #EXTINF:-1 type="movie" tvg-logo="Kau Latifah" group-title="VOD CLOUD", Aku Posmen https://vod-dai-ott-ap.ssai.iris.synamedia.com/tenant/astroprd/vodejitp-asset-playback-b.astro.com.my/v4/default/dash-wv/vode/853946ee-dec9-525d-aec3-3cb834f9e9eb/default_primary.mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey 
+#KODIPROP:inputstream.adaptive.license_key=e494828394edcdb5e6aa74d882f69f10:91fcc6ca4c14878b3f90424956c75fef #EXTINF:-1 type="movie" tvg-logo="Kau Latifah" group-title="VOD CLOUD", Aku Posmen https://vod-dai-ott-ap.ssai.iris.synamedia.com/tenant/astroprd/vodejitp-asset-playback-b.astro.com.my/v4/default/dash-wv/vode/853946ee-dec9-525d-aec3-3cb834f9e9eb/default_primary.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey #KODIPROP:inputstream.adaptive.license_key=1e98a65228f548b2aa5dfd114cb2cf10:5661ba14ce58a4b9d7d8df4d473d418b #EXTINF:-1 type="movie" tvg-logo="http://vod-poster.astro.com.my/prod/IVP(STB_OTT)_IUZYU_IVP_LAND_171x96_33209_2024313_16582.jpg" group-title="VOD CLOUD", Aku Raja Lawak https://vod-dai-ott-ap.ssai.iris.synamedia.com/tenant/astroprd/vodejitp-asset-playback-b.astro.com.my/v4/default/dash-wv/vode/d89f0adb-c7bf-5c1c-a0c1-c2e3e868b54a/default_primary.mpd
 
