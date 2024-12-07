@@ -1,3 +1,5 @@
+#EXTM3U
+
 #KODIPROP:inputstream.adaptive.license_type=clearkey 
 #KODIPROP:inputstream.adaptive.license_key=34474fae5259ee9ca5319a1fa2902310:d70e9c25fd1b3720e909c1c2ef239458 
 #EXTINF:-1 type="movie" tvg-logo="http://vod-poster.astro.com.my/prod/IVP(STB_OTT_STV)_IYTWE_p_IVP_PORT_390x585_48EE8_2024106_104048.jpg" group-title="VOD CLOUD", "Dato" S https://vod-dai-ott-ap.ssai.iris.synamedia.com/tenant/astroprd/vodejitp-asset-playback-b.astro.com.my/v4/default/dash-wv/vode/902414e0-35f5-59f4-8e9d-335e40113397/default_primary.mpd
